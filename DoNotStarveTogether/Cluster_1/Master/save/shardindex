@@ -1,0 +1,83 @@
+KLEI     1 return {
+  enabled_mods={
+    ["workshop-1271089343"]={ enable=true },
+    ["workshop-345692228"]={ enable=true },
+    ["workshop-347079953"]={ enable=true },
+    ["workshop-363112314"]={ enable=true },
+    ["workshop-375859599"]={ enable=true },
+    ["workshop-378160973"]={ enable=true },
+    ["workshop-458587300"]={ enable=true },
+    ["workshop-501385076"]={ enable=true },
+    ["workshop-949808360"]={ enable=true } 
+  },
+  server={
+    clan={ admin=false, id="", only=false },
+    description="xyltxh",
+    encode_user_path=true,
+    game_mode="endless",
+    intention="",
+    max_players=12,
+    name="xyltxh",
+    online_mode=true,
+    password="xyltxh",
+    privacy_type=0,
+    pvp=false,
+    server_language="en" 
+  },
+  session_id="4C4E387C3EBC78A2",
+  version=4,
+  world={
+    options={
+      desc="The standard Don't Starve experience.",
+      hideminimap=false,
+      id="SURVIVAL_TOGETHER",
+      location="forest",
+      max_playlist_position=999,
+      min_playlist_position=0,
+      name="Standard Forest",
+      numrandom_set_pieces=4,
+      override_level_string=false,
+      overrides={
+        has_ocean=true,
+        keep_disconnected_tiles=true,
+        layout_mode="LinkNodesByKeys",
+        no_joining_islands=true,
+        no_wormholes_to_disconnected_tiles=true,
+        roads="default",
+        season_start="default",
+        start_location="default",
+        task_set="default",
+        world_size="default",
+        wormhole_prefab="wormhole" 
+      },
+      random_set_pieces={
+        "Sculptures_2",
+        "Sculptures_3",
+        "Sculptures_4",
+        "Sculptures_5",
+        "Chessy_1",
+        "Chessy_2",
+        "Chessy_3",
+        "Chessy_4",
+        "Chessy_5",
+        "Chessy_6",
+        "Maxwell1",
+        "Maxwell2",
+        "Maxwell3",
+        "Maxwell4",
+        "Maxwell6",
+        "Maxwell7",
+        "Warzone_1",
+        "Warzone_2",
+        "Warzone_3" 
+      },
+      required_prefabs={ "multiplayer_portal" },
+      required_setpieces={ "Sculptures_1", "Maxwell5" },
+      substitutes={  },
+      version=4,
+      worldgen_desc="The standard Don't Starve experience.",
+      worldgen_id="SURVIVAL_TOGETHER",
+      worldgen_name="Standard Forest" 
+    } 
+  } 
+}

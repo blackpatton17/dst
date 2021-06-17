@@ -1,0 +1,642 @@
+[00:00:00]: PersistRootStorage is now /home/steam/.klei//DoNotStarveTogether/Cluster_1/Master/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 467172
+[00:00:00]: Current time: Thu Jun 17 11:39:29 2021
+
+[00:00:00]: System Name: Linux
+[00:00:00]: Host Name: ip-172-31-10-140
+[00:00:00]: Release(Kernel) Version: 4.19.0-14-cloud-amd64
+[00:00:00]: Kernel Build Timestamp: #1 SMP Debian 4.19.171-2 (2021-01-30)
+[00:00:00]: Machine Arch: x86_64
+[00:00:00]: Don't Starve Together: 467172 LINUX
+[00:00:00]: Build Date: 6998
+[00:00:00]: Mode: 32-bit
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: 
+[00:00:00]: Initializing distribution platform
+[00:00:00]: ....Done
+[00:00:00]: Mounting file system databundles/klump.zip successful.
+[00:00:00]: Mounting file system databundles/shaders.zip successful.
+[00:00:00]: Mounting file system databundles/fonts.zip successful.
+[00:00:00]: THREAD - started 'GAClient' (4139035456)
+[00:00:00]: CurlRequestManager::ClientThread::Main()
+[00:00:00]: Mounting file system databundles/anim_dynamic.zip successful.
+[00:00:00]: Mounting file system databundles/bigportraits.zip successful.
+[00:00:00]: Mounting file system databundles/images.zip successful.
+[00:00:01]: Mounting file system databundles/scripts.zip successful.
+[00:00:01]: [Steam] SteamGameServer_Init(11000, 27018)
+[00:00:01]: [Steam] SteamGameServer_Init success
+[00:00:01]: ProfileIndex:63.31
+[00:00:01]: [Connect] PendingConnection::Reset(true)
+[00:00:01]: Platform: 1
+[00:00:01]: Network tick rate: U=15(2), D=0
+[00:00:01]: Network tick rate: U=15(2), D=0
+[00:00:01]: OnLoadPermissionList: /home/steam/.klei//DoNotStarveTogether/Cluster_1/blocklist.txt (Failure)
+[00:00:01]: OnLoadPermissionList: /home/steam/.klei//DoNotStarveTogether/Cluster_1/adminlist.txt (Failure)
+[00:00:01]: OnLoadUserIdList: /home/steam/.klei//DoNotStarveTogether/Cluster_1/whitelist.txt (Failure)
+[00:00:01]: THREAD - started 'StreamInput' (4081253184)
+[00:00:01]: THREAD - started 'Ping Job Thread' (4083354432)
+[00:00:01]: Token retrieved from: /home/steam/.klei//DoNotStarveTogether/Cluster_1/cluster_token.txt
+[00:00:01]: Token retrieved from: /home/steam/.klei//DoNotStarveTogether/Cluster_1/cluster_token.txt
+[00:00:01]: cGame::InitializeOnMainThread
+[00:00:01]: Renderer initialize: Okay
+[00:00:01]: AnimManager initialize: Okay
+[00:00:01]: Buffers initialize: Okay
+[00:00:01]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:01]: GameSpecific initialize: Okay
+[00:00:01]: cGame::StartPlaying
+[00:00:02]: LOADING LUA
+[00:00:02]: DoLuaFile scripts/main.lua
+[00:00:02]: DoLuaFile loading buffer scripts/main.lua
+[00:00:04]:   taskgrouplist:	default	Together	
+[00:00:04]:   taskgrouplist:	classic	Classic	
+[00:00:04]:   taskgrouplist:	cave_default	Underground	
+[00:00:04]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:04]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:05]: running main.lua
+	
+[00:00:05]: WARNING: Force-enabling mod 'workshop-345692228' from modsettings.lua! If you are not developing a mod, please use the in-game menu instead.	
+[00:00:05]: WARNING: Force-enabling mod 'workshop-347079953' from modsettings.lua! If you are not developing a mod, please use the in-game menu instead.	
+[00:00:05]: WARNING: Force-enabling mod 'workshop-363112314' from modsettings.lua! If you are not developing a mod, please use the in-game menu instead.	
+[00:00:05]: WARNING: Force-enabling mod 'workshop-375859599' from modsettings.lua! If you are not developing a mod, please use the in-game menu instead.	
+[00:00:05]: WARNING: Force-enabling mod 'workshop-378160973' from modsettings.lua! If you are not developing a mod, please use the in-game menu instead.	
+[00:00:05]: WARNING: Force-enabling mod 'workshop-458587300' from modsettings.lua! If you are not developing a mod, please use the in-game menu instead.	
+[00:00:05]: WARNING: Force-enabling mod 'workshop-501385076' from modsettings.lua! If you are not developing a mod, please use the in-game menu instead.	
+[00:00:05]: WARNING: Force-enabling mod 'workshop-1271089343' from modsettings.lua! If you are not developing a mod, please use the in-game menu instead.	
+[00:00:05]: WARNING: Force-enabling mod 'workshop-949808360' from modsettings.lua! If you are not developing a mod, please use the in-game menu instead.	
+[00:00:05]: loaded modindex	
+[00:00:05]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:05]: SUCCESS: Loaded modoverrides.lua	
+[00:00:05]: ModIndex:GetModsToLoad inserting moddir, 	workshop-347079953	
+[00:00:05]: ModIndex:GetModsToLoad inserting moddir, 	workshop-501385076	
+[00:00:05]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1271089343	
+[00:00:05]: ModIndex:GetModsToLoad inserting moddir, 	workshop-949808360	
+[00:00:05]: ModIndex:GetModsToLoad inserting moddir, 	workshop-363112314	
+[00:00:05]: ModIndex:GetModsToLoad inserting moddir, 	workshop-458587300	
+[00:00:05]: ModIndex:GetModsToLoad inserting moddir, 	workshop-345692228	
+[00:00:05]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[00:00:05]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375859599	
+[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-347079953_CLIENT	
+[00:00:05]: Loading mod: workshop-347079953 (Display food values) Version:1.61	
+[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-501385076_CLIENT	
+[00:00:05]: Loading mod: workshop-501385076 (Quick Pick) Version:1.4.0	
+[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-1271089343_CLIENT	
+[00:00:05]: Loading mod: workshop-1271089343 (Your skeleton respawn) Version:1.2.6.2	
+[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-949808360_CLIENT	
+[00:00:05]: Loading mod: workshop-949808360 ( Carney卡尼猫
+) Version:1.4.4	
+[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-363112314_CLIENT	
+[00:00:05]: Loading mod: workshop-363112314 (Map Revealer for DST) Version:1.1	
+[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-458587300_CLIENT	
+[00:00:05]: Loading mod: workshop-458587300 (Fast Travel) Version:1.1.0	
+[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-345692228	
+[00:00:05]: Loading mod: workshop-345692228 (Minimap HUD) Version:1.0.7	
+[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-378160973_CLIENT	
+[00:00:05]: Loading mod: workshop-378160973 (Global Positions) Version:1.7.3	
+[00:00:05]: Could not load mod_config_data/modconfiguration_workshop-375859599_CLIENT	
+[00:00:05]: Loading mod: workshop-375859599 (Health Info) Version:2.2.00	
+[00:00:05]: Mod: workshop-347079953 (Display food values)	Loading modworldgenmain.lua	
+[00:00:05]: Mod: workshop-347079953 (Display food values)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:05]: Mod: workshop-347079953 (Display food values)	Loading modmain.lua	
+[00:00:05]: Mod: workshop-375859599 (Health Info)	Loading modworldgenmain.lua	
+[00:00:05]: Mod: workshop-375859599 (Health Info)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:05]: Mod: workshop-375859599 (Health Info)	Loading modmain.lua	
+[00:00:05]: modimport: ../mods/workshop-375859599/black_white_lists.lua	
+[00:00:05]: Mod: workshop-1271089343 (Your skeleton respawn)	Loading modworldgenmain.lua	
+[00:00:05]: Mod: workshop-1271089343 (Your skeleton respawn)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:05]: Mod: workshop-1271089343 (Your skeleton respawn)	Loading modmain.lua	
+[00:00:05]: Mod: workshop-501385076 (Quick Pick)	Loading modworldgenmain.lua	
+[00:00:05]: Mod: workshop-501385076 (Quick Pick)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:05]: Mod: workshop-501385076 (Quick Pick)	Loading modmain.lua	
+[00:00:05]: Mod: workshop-345692228 (Minimap HUD)	Loading modworldgenmain.lua	
+[00:00:05]: Mod: workshop-345692228 (Minimap HUD)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:05]: Mod: workshop-345692228 (Minimap HUD)	Loading modmain.lua	
+[00:00:06]: Mod: workshop-363112314 (Map Revealer for DST)	Loading modworldgenmain.lua	
+[00:00:06]: Mod: workshop-363112314 (Map Revealer for DST)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:06]: Mod: workshop-363112314 (Map Revealer for DST)	Loading modmain.lua	
+[00:00:06]: Mod: workshop-458587300 (Fast Travel)	Loading modworldgenmain.lua	
+[00:00:06]: Mod: workshop-458587300 (Fast Travel)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:06]: Mod: workshop-458587300 (Fast Travel)	Loading modmain.lua	
+[00:00:06]: Mod: workshop-949808360 ( Carney卡尼猫
+)	Loading modworldgenmain.lua	
+[00:00:06]: Mod: workshop-949808360 ( Carney卡尼猫
+)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:06]: Mod: workshop-949808360 ( Carney卡尼猫
+)	Loading modmain.lua	
+[00:00:06]: modimport: ../mods/workshop-949808360/scripts/carney_util/carney_util.lua	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	Loading modmain.lua	
+[00:00:06]: ModIndex:GetModsToLoad inserting moddir, 	workshop-347079953	
+[00:00:06]: ModIndex:GetModsToLoad inserting moddir, 	workshop-501385076	
+[00:00:06]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1271089343	
+[00:00:06]: ModIndex:GetModsToLoad inserting moddir, 	workshop-949808360	
+[00:00:06]: ModIndex:GetModsToLoad inserting moddir, 	workshop-363112314	
+[00:00:06]: ModIndex:GetModsToLoad inserting moddir, 	workshop-458587300	
+[00:00:06]: ModIndex:GetModsToLoad inserting moddir, 	workshop-345692228	
+[00:00:06]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[00:00:06]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375859599	
+[00:00:07]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:16]: LOADING LUA SUCCESS
+[00:00:16]: Registering Server mod namespace "food item"
+[00:00:16]: Registering Server mod namespace "workshop-378160973"
+[00:00:16]: Registering Server mod namespace "workshop-949808360"
+[00:00:16]: PlayerDeaths could not load morgue	
+[00:00:16]: PlayerHistory could not load player_history	
+[00:00:16]: ServerPreferences could not load server_preferences	
+[00:00:16]: bloom_enabled	true	
+[00:00:16]: OnFilesLoaded()	
+[00:00:16]: OnUpdatePurchaseStateComplete	
+[00:00:16]: Klump load on boot started.	
+[00:00:16]: Klump files loaded: 	0	
+[00:00:23]: Mod: workshop-347079953 (Display food values)	Registering prefabs	
+[00:00:23]: Mod: workshop-347079953 (Display food values)	  Registering default mod prefab	
+[00:00:23]: Mod: workshop-375859599 (Health Info)	Registering prefabs	
+[00:00:23]: Mod: workshop-375859599 (Health Info)	  Registering default mod prefab	
+[00:00:23]: Mod: workshop-1271089343 (Your skeleton respawn)	Registering prefabs	
+[00:00:23]: Mod: workshop-1271089343 (Your skeleton respawn)	  Registering default mod prefab	
+[00:00:23]: Mod: workshop-501385076 (Quick Pick)	Registering prefabs	
+[00:00:23]: Mod: workshop-501385076 (Quick Pick)	  Registering default mod prefab	
+[00:00:23]: Mod: workshop-345692228 (Minimap HUD)	Registering prefabs	
+[00:00:23]: Mod: workshop-345692228 (Minimap HUD)	  Registering default mod prefab	
+[00:00:23]: Mod: workshop-363112314 (Map Revealer for DST)	Registering prefabs	
+[00:00:23]: Mod: workshop-363112314 (Map Revealer for DST)	  Registering default mod prefab	
+[00:00:23]: Mod: workshop-458587300 (Fast Travel)	Registering prefabs	
+[00:00:23]: Mod: workshop-458587300 (Fast Travel)	  Registering default mod prefab	
+[00:00:23]: Mod: workshop-949808360 ( Carney卡尼猫
+)	Registering prefabs	
+[00:00:23]: Mod: workshop-949808360 ( Carney卡尼猫
+)	  Registering prefab file: prefabs/carney	
+[00:00:23]: Mod: workshop-949808360 ( Carney卡尼猫
+)	    carney	
+[00:00:23]: Mod: workshop-949808360 ( Carney卡尼猫
+)	  Registering prefab file: prefabs/freshaura	
+[00:00:23]: Mod: workshop-949808360 ( Carney卡尼猫
+)	    freshaura	
+[00:00:24]: Mod: workshop-949808360 ( Carney卡尼猫
+)	  Registering prefab file: prefabs/whiteberet	
+[00:00:24]: Mod: workshop-949808360 ( Carney卡尼猫
+)	    whiteberet	
+[00:00:24]: Mod: workshop-949808360 ( Carney卡尼猫
+)	  Registering prefab file: prefabs/angelcrystal	
+[00:00:24]: Mod: workshop-949808360 ( Carney卡尼猫
+)	    angelcrystal	
+[00:00:24]: Mod: workshop-949808360 ( Carney卡尼猫
+)	  Registering prefab file: prefabs/windyknife	
+[00:00:24]: Mod: workshop-949808360 ( Carney卡尼猫
+)	    windyknife	
+[00:00:24]: Mod: workshop-949808360 ( Carney卡尼猫
+)	  Registering prefab file: prefabs/nylon	
+[00:00:24]: Mod: workshop-949808360 ( Carney卡尼猫
+)	    nylon	
+[00:00:24]: Mod: workshop-949808360 ( Carney卡尼猫
+)	  Registering default mod prefab	
+[00:00:28]: Mod: workshop-378160973 (Global Positions)	Registering prefabs	
+[00:00:28]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalposition_classified	
+[00:00:28]: Mod: workshop-378160973 (Global Positions)	    globalposition_classified	
+[00:00:28]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/smoketrail	
+[00:00:28]: Mod: workshop-378160973 (Global Positions)	    smoketrail	
+[00:00:28]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalmapicon_noproxy	
+[00:00:28]: Mod: workshop-378160973 (Global Positions)	    globalmapicon_noproxy	
+[00:00:28]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/worldmapexplorer	
+[00:00:28]: Mod: workshop-378160973 (Global Positions)	    worldmapexplorer	
+[00:00:28]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/pings	
+[00:00:28]: Mod: workshop-378160973 (Global Positions)	    ping_generic	
+[00:00:28]: Mod: workshop-378160973 (Global Positions)	    ping_omw	
+[00:00:28]: Mod: workshop-378160973 (Global Positions)	    ping_danger	
+[00:00:28]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
+[00:00:28]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
+[00:00:28]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
+[00:00:28]: 	Load FE	
+[00:00:32]: 	Load FE: done	
+[00:00:32]: Check for write access: TRUE
+[00:00:32]: Check for read access: TRUE
+[00:00:32]: Available disk space for save files: 3912 MB
+[00:00:32]: THREAD - started 'FilesExistAsyncThread' (4049910592)
+[00:00:32]: FilesExistAsyncThread started (17708 files)...
+[00:00:32]: ModIndex: Load sequence finished successfully.	
+[00:00:32]: Reset() returning
+[00:00:33]: [200] Account Communication Success (6)
+[00:00:33]: Received (KU_VB9nmp1n) from TokenPurpose
+[00:00:33]: Starting Dedicated Server Game	
+[00:00:33]: Network tick rate: U=15(2), D=0
+[00:00:33]: About to start a server with the following settings:
+[00:00:33]:   Dedicated: true
+[00:00:33]:   Online: true
+[00:00:33]:   Passworded: true
+[00:00:33]:   ServerPort: 11000
+[00:00:33]:   SteamAuthPort: 8768
+[00:00:33]:   SteamMasterServerPort: 27018
+[00:00:33]:   ClanID: false
+[00:00:33]:   ClanOnly: false
+[00:00:33]:   ClanAdmin: false
+[00:00:33]:   LanOnly: false
+[00:00:33]:   FriendsOnly: false
+[00:00:33]:   EnableAutosaver: true
+[00:00:33]:   EncodeUserPath: true
+[00:00:33]:   PVP: false
+[00:00:33]:   MaxPlayers: 12
+[00:00:33]:   GameMode: endless
+[00:00:33]:   OverridenDNS: 
+[00:00:33]:   PauseWhenEmpty: true
+[00:00:33]:   IdleTimeout: 1800s
+[00:00:33]:   VoteEnabled: true
+[00:00:33]:   InternetBroadcasting: true
+[00:00:33]:   Intent: 
+[00:00:33]: Could not load mod_config_data/modconfiguration_workshop-347079953	
+[00:00:33]: Could not load mod_config_data/modconfiguration_workshop-458587300	
+[00:00:33]: Could not load mod_config_data/modconfiguration_workshop-375859599	
+[00:00:33]: Could not load mod_config_data/modconfiguration_workshop-378160973	
+[00:00:33]: Could not load mod_config_data/modconfiguration_workshop-949808360	
+[00:00:33]: Online Server Started on port: 11000
+[00:00:34]: SUCCESS: Loaded modoverrides.lua	
+[00:00:34]: Not applying level data overrides.	
+[00:00:34]: Not applying world gen overrides.	
+[00:00:34]: Collecting garbage...
+[00:00:34]: lua_gc took 0.76 seconds
+[00:00:34]: ~ShardLuaProxy()
+[00:00:34]: ~cEventLeaderboardProxy()
+[00:00:34]: ~ItemServerLuaProxy()
+[00:00:34]: ~InventoryLuaProxy()
+[00:00:34]: ~NetworkLuaProxy()
+[00:00:34]: ~SimLuaProxy()
+[00:00:34]: FilesExistAsyncThread aborted.
+[00:00:34]: ... FilesExistAsyncThread complete
+[00:00:35]: lua_close took 0.84 seconds
+[00:00:35]: ReleaseAll
+[00:00:35]: ReleaseAll Finished
+[00:00:35]: cGame::StartPlaying
+[00:00:35]: LOADING LUA
+[00:00:35]: DoLuaFile scripts/main.lua
+[00:00:35]: DoLuaFile loading buffer scripts/main.lua
+[00:00:38]:   taskgrouplist:	default	Together	
+[00:00:38]:   taskgrouplist:	classic	Classic	
+[00:00:38]:   taskgrouplist:	cave_default	Underground	
+[00:00:38]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:38]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:38]: running main.lua
+	
+[00:00:38]: WARNING: Force-enabling mod 'workshop-345692228' from modsettings.lua! If you are not developing a mod, please use the in-game menu instead.	
+[00:00:38]: WARNING: Force-enabling mod 'workshop-347079953' from modsettings.lua! If you are not developing a mod, please use the in-game menu instead.	
+[00:00:38]: WARNING: Force-enabling mod 'workshop-363112314' from modsettings.lua! If you are not developing a mod, please use the in-game menu instead.	
+[00:00:38]: WARNING: Force-enabling mod 'workshop-375859599' from modsettings.lua! If you are not developing a mod, please use the in-game menu instead.	
+[00:00:38]: WARNING: Force-enabling mod 'workshop-378160973' from modsettings.lua! If you are not developing a mod, please use the in-game menu instead.	
+[00:00:38]: WARNING: Force-enabling mod 'workshop-458587300' from modsettings.lua! If you are not developing a mod, please use the in-game menu instead.	
+[00:00:38]: WARNING: Force-enabling mod 'workshop-501385076' from modsettings.lua! If you are not developing a mod, please use the in-game menu instead.	
+[00:00:38]: WARNING: Force-enabling mod 'workshop-1271089343' from modsettings.lua! If you are not developing a mod, please use the in-game menu instead.	
+[00:00:38]: WARNING: Force-enabling mod 'workshop-949808360' from modsettings.lua! If you are not developing a mod, please use the in-game menu instead.	
+[00:00:38]: loaded modindex	
+[00:00:38]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:38]: SUCCESS: Loaded modoverrides.lua	
+[00:00:38]: ModIndex:GetModsToLoad inserting moddir, 	workshop-347079953	
+[00:00:38]: ModIndex:GetModsToLoad inserting moddir, 	workshop-501385076	
+[00:00:38]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1271089343	
+[00:00:38]: ModIndex:GetModsToLoad inserting moddir, 	workshop-949808360	
+[00:00:38]: ModIndex:GetModsToLoad inserting moddir, 	workshop-363112314	
+[00:00:38]: ModIndex:GetModsToLoad inserting moddir, 	workshop-458587300	
+[00:00:38]: ModIndex:GetModsToLoad inserting moddir, 	workshop-345692228	
+[00:00:38]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[00:00:38]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375859599	
+[00:00:38]: Could not load mod_config_data/modconfiguration_workshop-347079953	
+[00:00:38]: Loading mod: workshop-347079953 (Display food values) Version:1.61	
+[00:00:38]: Could not load mod_config_data/modconfiguration_workshop-501385076	
+[00:00:38]: Loading mod: workshop-501385076 (Quick Pick) Version:1.4.0	
+[00:00:38]: Could not load mod_config_data/modconfiguration_workshop-1271089343	
+[00:00:38]: Loading mod: workshop-1271089343 (Your skeleton respawn) Version:1.2.6.2	
+[00:00:38]: Could not load mod_config_data/modconfiguration_workshop-949808360	
+[00:00:38]: Loading mod: workshop-949808360 ( Carney卡尼猫
+) Version:1.4.4	
+[00:00:38]: Could not load mod_config_data/modconfiguration_workshop-363112314	
+[00:00:38]: Loading mod: workshop-363112314 (Map Revealer for DST) Version:1.1	
+[00:00:38]: Could not load mod_config_data/modconfiguration_workshop-458587300	
+[00:00:38]: Loading mod: workshop-458587300 (Fast Travel) Version:1.1.0	
+[00:00:38]: Could not load mod_config_data/modconfiguration_workshop-345692228	
+[00:00:38]: Loading mod: workshop-345692228 (Minimap HUD) Version:1.0.7	
+[00:00:38]: Could not load mod_config_data/modconfiguration_workshop-378160973	
+[00:00:38]: Loading mod: workshop-378160973 (Global Positions) Version:1.7.3	
+[00:00:38]: Could not load mod_config_data/modconfiguration_workshop-375859599	
+[00:00:38]: Loading mod: workshop-375859599 (Health Info) Version:2.2.00	
+[00:00:38]: Mod: workshop-347079953 (Display food values)	Loading modworldgenmain.lua	
+[00:00:38]: Mod: workshop-347079953 (Display food values)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:38]: Mod: workshop-347079953 (Display food values)	Loading modmain.lua	
+[00:00:39]: Mod: workshop-375859599 (Health Info)	Loading modworldgenmain.lua	
+[00:00:39]: Mod: workshop-375859599 (Health Info)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:39]: Mod: workshop-375859599 (Health Info)	Loading modmain.lua	
+[00:00:39]: modimport: ../mods/workshop-375859599/black_white_lists.lua	
+[00:00:39]: Mod: workshop-1271089343 (Your skeleton respawn)	Loading modworldgenmain.lua	
+[00:00:39]: Mod: workshop-1271089343 (Your skeleton respawn)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:39]: Mod: workshop-1271089343 (Your skeleton respawn)	Loading modmain.lua	
+[00:00:39]: Mod: workshop-501385076 (Quick Pick)	Loading modworldgenmain.lua	
+[00:00:39]: Mod: workshop-501385076 (Quick Pick)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:39]: Mod: workshop-501385076 (Quick Pick)	Loading modmain.lua	
+[00:00:39]: Mod: workshop-345692228 (Minimap HUD)	Loading modworldgenmain.lua	
+[00:00:39]: Mod: workshop-345692228 (Minimap HUD)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:39]: Mod: workshop-345692228 (Minimap HUD)	Loading modmain.lua	
+[00:00:39]: Mod: workshop-363112314 (Map Revealer for DST)	Loading modworldgenmain.lua	
+[00:00:39]: Mod: workshop-363112314 (Map Revealer for DST)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:39]: Mod: workshop-363112314 (Map Revealer for DST)	Loading modmain.lua	
+[00:00:39]: Mod: workshop-458587300 (Fast Travel)	Loading modworldgenmain.lua	
+[00:00:39]: Mod: workshop-458587300 (Fast Travel)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:39]: Mod: workshop-458587300 (Fast Travel)	Loading modmain.lua	
+[00:00:39]: Mod: workshop-949808360 ( Carney卡尼猫
+)	Loading modworldgenmain.lua	
+[00:00:39]: Mod: workshop-949808360 ( Carney卡尼猫
+)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:39]: Mod: workshop-949808360 ( Carney卡尼猫
+)	Loading modmain.lua	
+[00:00:39]: modimport: ../mods/workshop-949808360/scripts/carney_util/carney_util.lua	
+[00:00:39]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
+[00:00:39]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:39]: Mod: workshop-378160973 (Global Positions)	Loading modmain.lua	
+[00:00:39]: ModIndex:GetModsToLoad inserting moddir, 	workshop-347079953	
+[00:00:39]: ModIndex:GetModsToLoad inserting moddir, 	workshop-501385076	
+[00:00:39]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1271089343	
+[00:00:39]: ModIndex:GetModsToLoad inserting moddir, 	workshop-949808360	
+[00:00:39]: ModIndex:GetModsToLoad inserting moddir, 	workshop-363112314	
+[00:00:39]: ModIndex:GetModsToLoad inserting moddir, 	workshop-458587300	
+[00:00:39]: ModIndex:GetModsToLoad inserting moddir, 	workshop-345692228	
+[00:00:39]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[00:00:39]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375859599	
+[00:00:40]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:40]: LOADING LUA SUCCESS
+[00:00:40]: Registering Server mod namespace "food item"
+[00:00:40]: Registering Server mod namespace "workshop-378160973"
+[00:00:40]: Registering Server mod namespace "workshop-949808360"
+[00:00:40]: PlayerDeaths could not load morgue	
+[00:00:40]: PlayerHistory could not load player_history	
+[00:00:40]: ServerPreferences could not load server_preferences	
+[00:00:40]: bloom_enabled	true	
+[00:00:40]: OnFilesLoaded()	
+[00:00:40]: OnUpdatePurchaseStateComplete	
+[00:00:40]: Loading world: session/4C4E387C3EBC78A2/0000000030	
+[00:00:40]: Save file is at version 5.065	
+[00:00:40]: Klump load on boot started.	
+[00:00:40]: Klump files loaded: 	0	
+[00:00:40]: 	Unload FE	
+[00:00:40]: 	Unload FE done	
+[00:00:42]: Mod: workshop-347079953 (Display food values)	Registering prefabs	
+[00:00:42]: Mod: workshop-347079953 (Display food values)	  Registering default mod prefab	
+[00:00:42]: Mod: workshop-375859599 (Health Info)	Registering prefabs	
+[00:00:42]: Mod: workshop-375859599 (Health Info)	  Registering default mod prefab	
+[00:00:42]: Mod: workshop-1271089343 (Your skeleton respawn)	Registering prefabs	
+[00:00:42]: Mod: workshop-1271089343 (Your skeleton respawn)	  Registering default mod prefab	
+[00:00:42]: Mod: workshop-501385076 (Quick Pick)	Registering prefabs	
+[00:00:42]: Mod: workshop-501385076 (Quick Pick)	  Registering default mod prefab	
+[00:00:42]: Mod: workshop-345692228 (Minimap HUD)	Registering prefabs	
+[00:00:42]: Mod: workshop-345692228 (Minimap HUD)	  Registering default mod prefab	
+[00:00:42]: Mod: workshop-363112314 (Map Revealer for DST)	Registering prefabs	
+[00:00:42]: Mod: workshop-363112314 (Map Revealer for DST)	  Registering default mod prefab	
+[00:00:42]: Mod: workshop-458587300 (Fast Travel)	Registering prefabs	
+[00:00:42]: Mod: workshop-458587300 (Fast Travel)	  Registering default mod prefab	
+[00:00:42]: Mod: workshop-949808360 ( Carney卡尼猫
+)	Registering prefabs	
+[00:00:42]: Mod: workshop-949808360 ( Carney卡尼猫
+)	  Registering prefab file: prefabs/carney	
+[00:00:42]: Mod: workshop-949808360 ( Carney卡尼猫
+)	    carney	
+[00:00:42]: Mod: workshop-949808360 ( Carney卡尼猫
+)	  Registering prefab file: prefabs/freshaura	
+[00:00:42]: Mod: workshop-949808360 ( Carney卡尼猫
+)	    freshaura	
+[00:00:42]: Mod: workshop-949808360 ( Carney卡尼猫
+)	  Registering prefab file: prefabs/whiteberet	
+[00:00:42]: Mod: workshop-949808360 ( Carney卡尼猫
+)	    whiteberet	
+[00:00:42]: Mod: workshop-949808360 ( Carney卡尼猫
+)	  Registering prefab file: prefabs/angelcrystal	
+[00:00:42]: Mod: workshop-949808360 ( Carney卡尼猫
+)	    angelcrystal	
+[00:00:42]: Mod: workshop-949808360 ( Carney卡尼猫
+)	  Registering prefab file: prefabs/windyknife	
+[00:00:42]: Mod: workshop-949808360 ( Carney卡尼猫
+)	    windyknife	
+[00:00:42]: Mod: workshop-949808360 ( Carney卡尼猫
+)	  Registering prefab file: prefabs/nylon	
+[00:00:42]: Mod: workshop-949808360 ( Carney卡尼猫
+)	    nylon	
+[00:00:42]: Mod: workshop-949808360 ( Carney卡尼猫
+)	  Registering default mod prefab	
+[00:00:42]: Mod: workshop-378160973 (Global Positions)	Registering prefabs	
+[00:00:42]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalposition_classified	
+[00:00:42]: Mod: workshop-378160973 (Global Positions)	    globalposition_classified	
+[00:00:42]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/smoketrail	
+[00:00:42]: Mod: workshop-378160973 (Global Positions)	    smoketrail	
+[00:00:42]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalmapicon_noproxy	
+[00:00:42]: Mod: workshop-378160973 (Global Positions)	    globalmapicon_noproxy	
+[00:00:42]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/worldmapexplorer	
+[00:00:42]: Mod: workshop-378160973 (Global Positions)	    worldmapexplorer	
+[00:00:42]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/pings	
+[00:00:42]: Mod: workshop-378160973 (Global Positions)	    ping_generic	
+[00:00:42]: Mod: workshop-378160973 (Global Positions)	    ping_omw	
+[00:00:42]: Mod: workshop-378160973 (Global Positions)	    ping_danger	
+[00:00:42]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
+[00:00:42]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
+[00:00:42]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
+[00:00:42]: 	LOAD BE	
+[00:00:46]: Could not preload undefined prefab (alterguardian_spiketrail_fx)
+[00:00:48]: 	LOAD BE: done	
+[00:00:48]: Begin Session: 4C4E387C3EBC78A2
+[00:00:48]: saving to server_temp/server_save	
+[00:00:48]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
+[00:00:48]: MiniMapComponent::AddAtlas( ../mods/workshop-949808360/images/map_icons/carney.xml )
+[00:00:48]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/campfire.xml )
+[00:00:48]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_generic.xml )
+[00:00:48]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_gohere.xml )
+[00:00:48]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_explore.xml )
+[00:00:48]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_danger.xml )
+[00:00:48]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_omw.xml )
+[00:00:48]: Loading 18 new character(s)	
+[00:00:48]: Total 18 character(s) loaded	
+[00:00:50]: Loading Nav Grid	
+[00:00:50]: World generated on build 467172 with save version: 5.065, using seed: 1623915272	
+[00:00:50]: setting 	summerlength	15	
+[00:00:50]: setting 	cavemoonphase	quarter	
+[00:00:50]: setting 	iscavefullmoon	false	
+[00:00:50]: setting 	isnightmaredawn	false	
+[00:00:50]: setting 	elapseddaysinseason	18	
+[00:00:50]: setting 	isfullmoon	false	
+[00:00:50]: setting 	moisture	2823.47265625	
+[00:00:50]: setting 	cavephase	day	
+[00:00:50]: setting 	iscavewaxingmoon	false	
+[00:00:50]: setting 	isnightmarewild	false	
+[00:00:50]: setting 	nightmaretimeinphase	0	
+[00:00:50]: setting 	precipitationrate	0	
+[00:00:50]: setting 	iswet	false	
+[00:00:50]: setting 	isnewmoon	false	
+[00:00:50]: setting 	precipitation	none	
+[00:00:50]: setting 	israining	false	
+[00:00:50]: setting 	isnightmarewarn	false	
+[00:00:50]: setting 	iswinter	false	
+[00:00:50]: setting 	season	autumn	
+[00:00:50]: setting 	remainingdaysinseason	2	
+[00:00:50]: setting 	winterlength	15	
+[00:00:50]: setting 	iscaveday	true	
+[00:00:50]: setting 	moistureceil	4208.521484375	
+[00:00:50]: setting 	isday	true	
+[00:00:50]: setting 	springlength	20	
+[00:00:50]: setting 	wetness	0	
+[00:00:50]: setting 	iscavedusk	false	
+[00:00:50]: setting 	isalterawake	false	
+[00:00:50]: setting 	isnightmarecalm	false	
+[00:00:50]: setting 	isnight	false	
+[00:00:50]: setting 	isdusk	false	
+[00:00:50]: setting 	isspring	false	
+[00:00:50]: setting 	isautumn	true	
+[00:00:50]: setting 	issnowing	false	
+[00:00:50]: setting 	iswaxingmoon	false	
+[00:00:50]: setting 	phase	day	
+[00:00:50]: setting 	snowlevel	0	
+[00:00:50]: setting 	issnowcovered	false	
+[00:00:50]: setting 	autumnlength	20	
+[00:00:50]: setting 	pop	0.50031516778143	
+[00:00:50]: setting 	nightmaretime	0	
+[00:00:50]: setting 	seasonprogress	0.95	
+[00:00:50]: setting 	moonphase	quarter	
+[00:00:50]: setting 	nightmarephase	none	
+[00:00:50]: setting 	cycles	18	
+[00:00:50]: setting 	timeinphase	0.0046056111653646	
+[00:00:50]: setting 	iscavenight	false	
+[00:00:50]: setting 	iscavenewmoon	false	
+[00:00:50]: setting 	issummer	false	
+[00:00:50]: setting 	temperature	4.961053048424	
+[00:00:50]: setting 	time	0.002014954884847	
+[00:00:53]: ----------------- HEALTH INFO WARNING ------------------	
+[00:00:53]: Some objects are not supported by the mod.	
+[00:00:53]: Unknown objects: waterplant	
+[00:00:53]: You can enable these objects if you change the option "Unknown Objects".	
+[00:00:53]: See more info at http://steamcommunity.com/workshop/filedetails/discussion/375859599/343787283764426976/	
+[00:00:53]: --------------------------------------------------------	
+[00:01:08]: ----------------- HEALTH INFO WARNING ------------------	
+[00:01:08]: Unknown objects: crabking	
+[00:01:49]: Reconstructing topology	
+[00:01:49]: 	...Sorting points	
+[00:01:49]: 	...Sorting edges	
+[00:01:49]: 	...Connecting nodes	
+[00:01:49]: 	...Validating connections	
+[00:01:51]: 	...Housekeeping	
+[00:01:51]: 	...Done!	
+[00:01:51]: Truncating to snapshot #30...
+[00:01:51]:  - session/4C4E387C3EBC78A2/A7HIFHJ2LQC7/0000000031
+[00:01:51]:  - session/4C4E387C3EBC78A2/A7JPB1OPP1N4/0000000031
+[00:01:51]:  - session/4C4E387C3EBC78A2/A7MFJQIVKD3S/0000000031
+[00:01:51]:  - session/4C4E387C3EBC78A2/A7JSM9OS6C3H/0000000031
+[00:01:51]:    4 file(s) removed
+[00:01:51]: Restoring user: session/4C4E387C3EBC78A2/A7JPB1OPP1N4/0000000030	
+[00:01:52]: Restoring user: session/4C4E387C3EBC78A2/A7MFJQIVKD3S/0000000030	
+[00:01:52]: Restoring user: session/4C4E387C3EBC78A2/A7JSM9OS6C3H/0000000030	
+[00:01:52]: ERROR!!! Invisible werebeaver is probably about to happen!!!	
+[00:01:52]: Restoring user: session/4C4E387C3EBC78A2/A7HIFHJ2LQC7/0000000030	
+[00:01:53]: Serializing user: session/4C4E387C3EBC78A2/A7HIFHJ2LQC7/0000000031
+[00:01:53]: Serializing user: session/4C4E387C3EBC78A2/A7MFJQIVKD3S/0000000031
+[00:01:53]: Serializing user: session/4C4E387C3EBC78A2/A7JSM9OS6C3H/0000000031
+[00:01:53]: Serializing user: session/4C4E387C3EBC78A2/A7JPB1OPP1N4/0000000031
+[00:01:53]: 1 uploads added to server. From server_temp
+[00:01:53]: About to start a shard with these settings:
+[00:01:53]:   ShardName: [SHDMASTER]
+[00:01:53]:   ShardID: 1
+[00:01:53]:   ShardRole: MASTER
+[00:01:53]:   MasterHost: (null)
+[00:01:53]:   MasterBind: 127.0.0.1
+[00:01:53]:   MasterPort: 10889
+[00:01:53]: [Shard] Starting master server
+[00:01:53]: [Shard] Shard server started on port: 10889
+[00:01:53]: Telling Client our new session identifier: 4C4E387C3EBC78A2
+[00:01:53]: Check for write access: TRUE
+[00:01:53]: Check for read access: TRUE
+[00:01:53]: Available disk space for save files: 3912 MB
+[00:01:53]: ModIndex: Load sequence finished successfully.	
+[00:01:58]: Reset() returning
+[00:02:04]: Validating portal[6] <-> <nil>[6] (inactive)	
+[00:02:04]: Validating portal[8] <-> <nil>[8] (inactive)	
+[00:02:04]: Validating portal[4] <-> <nil>[4] (inactive)	
+[00:02:04]: Validating portal[5] <-> <nil>[5] (inactive)	
+[00:02:04]: Validating portal[10] <-> <nil>[10] (inactive)	
+[00:02:04]: Validating portal[2] <-> <nil>[2] (inactive)	
+[00:02:04]: Validating portal[1] <-> <nil>[1] (inactive)	
+[00:02:04]: Validating portal[7] <-> <nil>[7] (inactive)	
+[00:02:05]: Validating portal[3] <-> <nil>[3] (inactive)	
+[00:02:06]: Validating portal[9] <-> <nil>[9] (inactive)	
+[00:02:08]: Sim paused
+[00:02:11]: Best lobby region is aws/US (ping 0)
+[00:02:11]: Registering master server in US lobby
+[00:02:21]: Registering master server in US lobby
+[00:02:34]: [P2P] Session request for '76561198135204993'
+[00:02:38]: [P2P] Create session: 170.247.249.113|1 '76561198135204993'
+[00:02:38]: [P2P] Received from 170.247.249.113|1 '76561198135204993'
+[00:02:38]: [P2P] Sent to 170.247.249.113|1 '76561198135204993'
+[00:02:38]: New incoming connection 170.247.249.113|1 <7467648891661063768>
+[00:02:38]: Client connected from 170.247.249.113|1 <7467648891661063768>
+[00:02:38]: ValidateGameSessionToken pgs-usc^KU_pvwb-ZHy^DontStarveTogether^YGDKmdcAbls5fQMxedAZpH7hnClTSkuDe39DShNXimg= for <7467648891661063768>
+[00:02:39]: Client authenticated: (KU_pvwb-ZHy) お可愛いこと
+[00:02:39]: [Steam] SendUserConnectAndAuthenticate for '76561198135204993'
+[00:02:40]: [Steam] Authenticated client '76561198135204993'
+[00:02:41]: There is no active event to validate against.
+[00:02:41]: [Shard] Read save location file for (KU_pvwb-ZHy)
+[00:02:41]: Registering master server in US lobby
+[00:02:51]: Resuming user: session/4C4E387C3EBC78A2/A7MFJQIVKD3S/0000000031
+[00:02:52]: Spawning player at: [Load] (439.64, 0.00, -6.88)	
+[00:02:52]: Sim unpaused
+[00:02:52]: Registering master server in US lobby
+[00:04:48]: [P2P] Session request for '76561198177994765'
+[00:04:52]: [P2P] Create session: 170.247.249.114|1 '76561198177994765'
+[00:04:52]: [P2P] Received from 170.247.249.114|1 '76561198177994765'
+[00:04:52]: [P2P] Sent to 170.247.249.114|1 '76561198177994765'
+[00:04:53]: New incoming connection 170.247.249.114|1 <7132595789054904678>
+[00:04:53]: Client connected from 170.247.249.114|1 <7132595789054904678>
+[00:04:53]: ValidateGameSessionToken pgs-usc^KU_VB9nmp1n^DontStarveTogether^U9xOu+SH9PNWpdFYU1aEfXmg0QHIBUaw4ROKBLf3s7w= for <7132595789054904678>
+[00:04:54]: Client authenticated: (KU_VB9nmp1n) Color b who cannot type
+[00:04:54]: [Steam] Authenticated host '76561198177994765'
+[00:04:56]: There is no active event to validate against.
+[00:04:56]: [Shard] Read save location file for (KU_VB9nmp1n)
+[00:04:56]: Registering master server in US lobby
+[00:04:59]: [Steam] SendUserDisconnect for '76561198135204993'
+[00:04:59]: Connection lost to 170.247.249.113|1 <7467648891661063768>
+[00:04:59]: [Shard] (KU_pvwb-ZHy) disconnected from [SHDMASTER](1)
+[00:04:59]: Serializing user: session/4C4E387C3EBC78A2/A7MFJQIVKD3S/0000000031
+[00:05:00]: Sim paused
+[00:05:06]: Registering master server in US lobby
+[00:05:06]: Resuming user: session/4C4E387C3EBC78A2/A7JSM9OS6C3H/0000000031
+[00:05:06]: ERROR!!! Invisible werebeaver is probably about to happen!!!	
+[00:05:06]: Spawning player at: [Load] (-228.67, -0.00, -61.78)	
+[00:05:06]: Sim unpaused
+[00:05:16]: Registering master server in US lobby
+[00:05:27]: [P2P] Connection failed for '76561198135204993'
+[00:08:10]: [Steam] SendUserDisconnect for '76561198177994765'
+[00:08:10]: Connection lost to 170.247.249.114|1 <7132595789054904678>
+[00:08:10]: [Shard] (KU_VB9nmp1n) disconnected from [SHDMASTER](1)
+[00:08:10]: Registering master server in US lobby
+[00:08:10]: Serializing user: session/4C4E387C3EBC78A2/A7JSM9OS6C3H/0000000031
+[00:08:11]: Sim paused
+[00:08:19]: [P2P] Connection failed for '76561198177994765'
+[00:14:59]: [P2P] Session timed out for '76561198135204993'
+[00:14:59]: [P2P] Remove session: 170.247.249.113|1 '76561198135204993'
+[00:18:10]: [P2P] Session timed out for '76561198177994765'
+[00:18:10]: [P2P] Remove session: 170.247.249.114|1 '76561198177994765'
+[00:30:34]: [200] Account Communication Success (6)
+[00:30:34]: Received (KU_VB9nmp1n) from TokenPurpose
+[00:52:15]: [P2P] Create session: 170.247.249.115|1 '76561198177994765'
+[00:52:15]: [P2P] Received from 170.247.249.115|1 '76561198177994765'
+[00:52:15]: [P2P] Sent to 170.247.249.115|1 '76561198177994765'
+[00:52:15]: New incoming connection 170.247.249.115|1 <3576762314670361846>
+[00:52:15]: Client connected from 170.247.249.115|1 <3576762314670361846>
+[00:52:15]: ValidateGameSessionToken pgs-usc^KU_VB9nmp1n^DontStarveTogether^5+5H6Sh2W6ixRF+lxvV+8RE7qID5DZ3XLD3isbxFt58= for <3576762314670361846>
+[00:52:16]: Client authenticated: (KU_VB9nmp1n) Color b who cannot type
+[00:52:17]: [Steam] Authenticated host '76561198177994765'
+[00:52:18]: There is no active event to validate against.
+[00:52:18]: [Shard] Read save location file for (KU_VB9nmp1n)
+[00:52:18]: Registering master server in US lobby
+[00:52:28]: Resuming user: session/4C4E387C3EBC78A2/A7JSM9OS6C3H/0000000031
+[00:52:28]: ERROR!!! Invisible werebeaver is probably about to happen!!!	
+[00:52:28]: Spawning player at: [Load] (-291.06, -0.00, 13.20)	
+[00:52:28]: Sim unpaused
+[00:52:28]: Registering master server in US lobby
+[00:52:30]: New time stamps for everyone at	1623933119	
+[00:52:48]: [Steam] SendUserDisconnect for '76561198177994765'
+[00:52:48]: Connection lost to 170.247.249.115|1 <3576762314670361846>
+[00:52:48]: [Shard] (KU_VB9nmp1n) disconnected from [SHDMASTER](1)
+[00:52:48]: Registering master server in US lobby
+[00:52:49]: Serializing user: session/4C4E387C3EBC78A2/A7JSM9OS6C3H/0000000031
+[00:52:49]: Sim paused
+[00:53:03]: Available disk space for save files: 3912 MB

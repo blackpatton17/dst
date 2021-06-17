@@ -1,0 +1,87 @@
+[00:00:00]: PersistRootStorage is now /home/steam/.klei//DoNotStarveTogether/Cluster_1/Master/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 467172
+[00:00:00]: Current time: Thu Jun 17 09:10:31 2021
+
+[00:00:00]: System Name: Linux
+[00:00:00]: Host Name: ip-172-31-10-140
+[00:00:00]: Release(Kernel) Version: 4.19.0-14-cloud-amd64
+[00:00:00]: Kernel Build Timestamp: #1 SMP Debian 4.19.171-2 (2021-01-30)
+[00:00:00]: Machine Arch: x86_64
+[00:00:00]: Don't Starve Together: 467172 LINUX
+[00:00:00]: Build Date: 6998
+[00:00:00]: Mode: 32-bit
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: 
+[00:00:00]: Initializing distribution platform
+[00:00:00]: ....Done
+[00:00:00]: Mounting file system databundles/klump.zip successful.
+[00:00:00]: Mounting file system databundles/shaders.zip successful.
+[00:00:00]: Mounting file system databundles/fonts.zip successful.
+[00:00:00]: THREAD - started 'GAClient' (4138986304)
+[00:00:00]: CurlRequestManager::ClientThread::Main()
+[00:00:00]: Mounting file system databundles/anim_dynamic.zip successful.
+[00:00:00]: Mounting file system databundles/bigportraits.zip successful.
+[00:00:00]: Mounting file system databundles/images.zip successful.
+[00:00:00]: Mounting file system databundles/scripts.zip successful.
+[00:00:00]: [Steam] SteamGameServer_Init(11000, 27018)
+[00:00:00]: [Steam] SteamGameServer_Init success
+[00:00:00]: ProfileIndex:5.89
+[00:00:00]: [Connect] PendingConnection::Reset(true)
+[00:00:00]: Platform: 1
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: OnLoadPermissionList: /home/steam/.klei//DoNotStarveTogether/Cluster_1/blocklist.txt (Failure)
+[00:00:00]: OnLoadPermissionList: /home/steam/.klei//DoNotStarveTogether/Cluster_1/adminlist.txt (Failure)
+[00:00:00]: OnLoadUserIdList: /home/steam/.klei//DoNotStarveTogether/Cluster_1/whitelist.txt (Failure)
+[00:00:00]: THREAD - started 'StreamInput' (4082305856)
+[00:00:00]: THREAD - started 'Ping Job Thread' (4084407104)
+[00:00:00]: Token retrieved from: /home/steam/.klei//DoNotStarveTogether/Cluster_1/cluster_token.txt
+[00:00:00]: Token retrieved from: /home/steam/.klei//DoNotStarveTogether/Cluster_1/cluster_token.txt
+[00:00:00]: cGame::InitializeOnMainThread
+[00:00:00]: Renderer initialize: Okay
+[00:00:01]: AnimManager initialize: Okay
+[00:00:01]: Buffers initialize: Okay
+[00:00:01]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:01]: GameSpecific initialize: Okay
+[00:00:01]: cGame::StartPlaying
+[00:00:01]: LOADING LUA
+[00:00:01]: DoLuaFile scripts/main.lua
+[00:00:01]: DoLuaFile loading buffer scripts/main.lua
+[00:00:01]:   taskgrouplist:	default	Together	
+[00:00:01]:   taskgrouplist:	classic	Classic	
+[00:00:01]:   taskgrouplist:	cave_default	Underground	
+[00:00:01]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:01]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:01]: running main.lua
+	
+[00:00:01]: WARNING: Force-enabling mod 'workshop-345692228' from modsettings.lua! If you are not developing a mod, please use the in-game menu instead.	
+[00:00:01]: WARNING: Force-enabling mod 'workshop-347079953' from modsettings.lua! If you are not developing a mod, please use the in-game menu instead.	
+[00:00:01]: WARNING: Force-enabling mod 'workshop-363112314' from modsettings.lua! If you are not developing a mod, please use the in-game menu instead.	
+[00:00:01]: WARNING: Force-enabling mod 'workshop-375859599' from modsettings.lua! If you are not developing a mod, please use the in-game menu instead.	
+[00:00:01]: WARNING: Force-enabling mod 'workshop-378160973' from modsettings.lua! If you are not developing a mod, please use the in-game menu instead.	
+[00:00:01]: WARNING: Force-enabling mod 'workshop-458587300' from modsettings.lua! If you are not developing a mod, please use the in-game menu instead.	
+[00:00:01]: WARNING: Force-enabling mod 'workshop-501385076' from modsettings.lua! If you are not developing a mod, please use the in-game menu instead.	
+[00:00:01]: WARNING: Force-enabling mod 'workshop-1271089343' from modsettings.lua! If you are not developing a mod, please use the in-game menu instead.	
+[00:00:01]: WARNING: Force-enabling mod 'workshop-949808360' from modsettings.lua! If you are not developing a mod, please use the in-game menu instead.	
+[00:00:01]: loaded modindex	
+[00:00:01]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:01]: SUCCESS: Loaded modoverrides.lua	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-347079953	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-501385076	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1271089343	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-949808360	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-363112314	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-458587300	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-345692228	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375859599	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-347079953_CLIENT	
+[00:00:01]: Loading mod: workshop-347079953 (Display food values) Version:1.61	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-501385076_CLIENT	
+[00:00:01]: Loading mod: workshop-501385076 (Quick Pick) Version:1.4.0	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-1271089343_CLIENT	
+[00:00:01]: Loading mod: workshop-1271089343 (Your skeleton respawn) Version:1.2.6.2	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-949808360_CLIENT	
+[00:00:01]: Loading mod: workshop-949808360 ( Carney
